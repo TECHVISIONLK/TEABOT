@@ -1,7 +1,7 @@
 {
-  "name": "whatsasena",
+  "name": "TEABOT",
   "version": "0.22.1",
-  "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "description": "TEA BOT - a Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./TEABOT/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
