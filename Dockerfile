@@ -1,6 +1,6 @@
 FROM TECHVISIONLK/TEABOT:Public
 
-RUN git clone $https://github.com/TECHVISIONLK/TEABOT /root/TEABOT
+RUN git clone https://github.com/TECHVISIONLK/TEABOT /root/TEABOT
 WORKDIR /root/TEABOT/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
