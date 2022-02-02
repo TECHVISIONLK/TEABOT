@@ -2,7 +2,7 @@ FROM TECHVISIONLK/TEABOT:Public
 
 RUN git clone https://github.com/TECHVISIONLK/TEABOT /root/TEABOT
 WORKDIR /root/TEABOT/
-ENV TZ=Europe/Istanbul
+ENV TZ=Asia/Colombo
 RUN npm install supervisor -g
 RUN apk --no-cache --virtual build-dependencies add \
     python \
