@@ -1,7 +1,7 @@
 ----
 
 <div align="center">
-  <img src="https://i.ibb.co/yWT2rkR/Whats-App-Image-2021-11-14-at-15-00-05.png" width="200" height="200">
+  <img src="https://i.ibb.co/yWT2rkR/Whats-App-Image-2021-11-14-at-15-00-05.png" width="1024" height="1024">
   <h1>TEA BOT</h1>
 </div>
 <p align="center">
