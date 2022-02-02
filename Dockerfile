@@ -1,4 +1,4 @@
-FROM TECHVISIONLK/TEABOT:public
+FROM fusuf/whatsasena:latest
 
 RUN git clone https://github.com/TECHVISIONLK/TEABOT /root/TEABOT
 WORKDIR /root/TEABOT/
