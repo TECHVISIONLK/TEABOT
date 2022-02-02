@@ -1,6 +1,6 @@
-FROM fusuf/whatsasena:latest
+FROM TECHVISIONLK/TEABOT:beta
 
-RUN git clone $GITHUB_REPO_URL /root/TEABOT
+RUN git clone $https://github.com/TECHVISIONLK/TEABOT /root/TEABOT
 WORKDIR /root/TEABOT/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
