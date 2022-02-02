@@ -27,14 +27,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TECHVISIONLK/TEABOT)
 
 ### The Hard Method
-```js
-git clone https://github.com/Quiec/WhatsAsena.git
-cd WhatsAsena
-npm i
-# Config.env oluşturun ve düzenleyin. #
-# Config.env create and edit. #
-node bot.js
-```
+Coming Soon.....!
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
