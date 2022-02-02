@@ -63,15 +63,12 @@
             "required": false,
             "value": "true"
         }
+        
     },
-    "addons": [
-        {
-            "plan": "heroku-postgresql"
-        }
-    ],
-    "buildpacks": [
-        {
-            "url": "heroku-community/apt"
-        }
-    ]
-}
+    "addons": [{
+      "plan": "heroku-postgresql"
+    }],
+    "buildpacks": [{
+      "url": "heroku-community/apt"
+      }]
+  }
